@@ -1,0 +1,1413 @@
+.ellipseIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 64px;
+}
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: 7.26px;
+  left: 0;
+  border-radius: var(--br-lg) var(--br-lg) 0 0;
+  background-color: var(--neutral-100);
+  width: 11.38px;
+  height: 14.16px;
+  transform: rotate(-39.63deg);
+  transform-origin: 0 0;
+}
+.rectangleDiv1 {
+  top: 23.23px;
+  left: 28.12px;
+  background-color: var(--color-tan);
+  transform: rotate(139.76deg);
+}
+.groupDiv1 {
+  position: absolute;
+  top: 16.36px;
+  left: 17.78px;
+  width: 28.12px;
+  height: 30.58px;
+}
+.groupDiv {
+  position: relative;
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.dOGTORB {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.homeB,
+.logoDiv {
+  position: absolute;
+}
+.logoDiv {
+  top: 16px;
+  left: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.homeB {
+  top: calc(50% - 10px);
+  left: calc(50% - 23px);
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.frameDiv2 {
+  position: relative;
+  background-color: var(--neutral-100);
+  width: 78px;
+  height: 32px;
+  flex-shrink: 0;
+  overflow: hidden;
+  color: var(--color-turquoise-200);
+}
+.aboutUsDiv {
+  position: absolute;
+  top: 8px;
+  left: 9px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameDiv4 {
+  position: absolute;
+  top: calc(50% - 19px);
+  left: calc(50% - 43px);
+  width: 86px;
+  height: 37px;
+}
+.frameDiv3 {
+  position: relative;
+  background-color: var(--neutral-100);
+  width: 100px;
+  height: 32px;
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frameDiv6 {
+  position: absolute;
+  top: calc(50% - 19px);
+  left: calc(50% - 56.5px);
+  width: 114px;
+  height: 37px;
+}
+.frameDiv5 {
+  position: relative;
+  background-color: var(--neutral-100);
+  width: 127px;
+  height: 32px;
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.contactUsDiv {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameDiv7 {
+  position: relative;
+  background-color: var(--neutral-100);
+  width: 115px;
+  height: 32px;
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.loginSignUp {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+  width: 124px;
+}
+.frameDiv10 {
+  position: absolute;
+  top: calc(50% - 19px);
+  left: calc(50% - 56.5px);
+  width: 142px;
+  height: 37px;
+}
+.frameDiv9 {
+  position: relative;
+  background-color: var(--neutral-100);
+  width: 131px;
+  height: 32px;
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.menuItemsDiv {
+  position: absolute;
+  top: 29px;
+  left: 753px;
+  width: 638px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  font-size: var(--font-size-base);
+}
+.frameDiv1 {
+  height: 1065.63%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -965.62%;
+  background-color: var(--neutral-100);
+}
+.frameDiv,
+.frameDiv1,
+.notostethoscopeIcon {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.frameDiv {
+  top: 0;
+  background-color: var(--neutral-100);
+  width: 1430px;
+  height: 96px;
+}
+.notostethoscopeIcon {
+  top: 108px;
+  width: 949.36px;
+  height: 956px;
+  opacity: 0.1;
+}
+.homepageDesignIcon {
+  position: absolute;
+  top: 107px;
+  left: 718.97px;
+  width: 737px;
+  height: 917px;
+  display: none;
+}
+.completeHealth {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.everyoneP {
+  margin: 0;
+}
+.completeHealthCareSolutions {
+  position: absolute;
+  width: 97.44%;
+  top: 2.86%;
+  left: 1.28%;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.frameDiv11 {
+  position: absolute;
+  top: 331px;
+  left: 62.56px;
+  width: 621.65px;
+  height: 280px;
+  font-size: var(--title-02-bold-size);
+}
+.makeAppointmentDiv,
+.wereAlwaysAvailableForOur {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.wereAlwaysAvailableForOur {
+  height: 5.53%;
+  width: 44.41%;
+  top: 64.28%;
+  left: 4.9%;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.makeAppointmentDiv {
+  top: 25px;
+  left: 42px;
+  font-weight: 600;
+}
+.makeAppointment {
+  position: absolute;
+  top: calc(50% + 386px);
+  left: calc(50% - 643.5px);
+  border-radius: 47px;
+  background-color: var(--color-turquoise-200);
+  box-shadow: 0 2px 10px rgba(65, 211, 153, 0.7);
+  width: 341.61px;
+  height: 87px;
+  cursor: pointer;
+  color: var(--neutral-100);
+}
+.claritymouseLineIcon,
+.rectangleIcon,
+.rectangleIcon1 {
+  position: absolute;
+  height: 3.55%;
+  width: 2.48%;
+  top: 95.38%;
+  right: 49.11%;
+  bottom: 1.06%;
+  left: 48.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleIcon,
+.rectangleIcon1 {
+  height: 2.57%;
+  width: 1.79%;
+  top: 30.12%;
+  right: 93.38%;
+  bottom: 67.32%;
+  left: 4.83%;
+}
+.rectangleIcon1 {
+  top: 71.09%;
+  right: 51.04%;
+  bottom: 26.34%;
+  left: 47.17%;
+}
+.heroDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1430px;
+  height: 1064px;
+  font-size: var(--font-size-xl);
+}
+.icoutlineHealthAndSafetyIcon {
+  position: absolute;
+  top: 1158px;
+  left: 949px;
+  width: 552px;
+  height: 552px;
+  overflow: hidden;
+  opacity: 0.1;
+}
+.ourServicesB,
+.weOfferDifferentServicesTo {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.ourServicesB {
+  top: 56px;
+  left: 653px;
+  color: var(--color-tan);
+}
+.weOfferDifferentServicesTo {
+  top: 100px;
+  left: 264px;
+  font-size: var(--title-02-bold-size);
+  font-weight: 600;
+  text-align: center;
+}
+.lineDiv {
+  position: absolute;
+  top: 307.5px;
+  left: 538.5px;
+  border-top: 1px solid var(--color-tan);
+  box-sizing: border-box;
+  width: 358px;
+  height: 1px;
+}
+.fa6SoliduserDoctorIcon {
+  position: absolute;
+  top: 34px;
+  left: 122px;
+  width: 63px;
+  height: 72px;
+  overflow: hidden;
+}
+.expertDoctorB,
+.weHaveATeamOfExpertSpeci {
+  position: absolute;
+  top: 125px;
+  left: 81px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.weHaveATeamOfExpertSpeci {
+  top: 65%;
+  left: 8.74%;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.frameDiv13 {
+  position: absolute;
+  top: 348px;
+  left: 70px;
+  border-radius: var(--br-md);
+  background-color: var(--neutral-100);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  width: 309px;
+  height: 260px;
+  overflow: hidden;
+}
+.bestMedicalEquipmentUsedTo,
+.diagnosisB {
+  position: absolute;
+  top: 130px;
+  left: 103px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.bestMedicalEquipmentUsedTo {
+  top: 65%;
+  left: 9.39%;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.frameDiv14,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 27.69%;
+  width: 23.3%;
+  top: 14.23%;
+  right: 38.51%;
+  bottom: 58.08%;
+  left: 38.19%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frameDiv14 {
+  top: 348px;
+  left: 402px;
+  border-radius: var(--br-md);
+  background-color: var(--neutral-100);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  width: 309px;
+  height: 260px;
+}
+.medicalIconiCardiology {
+  position: absolute;
+  top: 33px;
+  left: 118px;
+  width: 72px;
+  height: 72px;
+  overflow: hidden;
+}
+.cardiologyB {
+  position: absolute;
+  top: 125px;
+  left: 98px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.frameDiv15 {
+  position: absolute;
+  top: 629px;
+  left: 70px;
+  border-radius: var(--br-md);
+  background-color: var(--neutral-100);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  width: 309px;
+  height: 260px;
+  overflow: hidden;
+}
+.faSoliddiagnosesDiv {
+  position: absolute;
+  top: 124px;
+  left: 13px;
+  width: 110px;
+  height: 88px;
+  overflow: hidden;
+  display: none;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 83.85%;
+  width: 87.46%;
+  top: 8.08%;
+  right: 4.82%;
+  bottom: 8.08%;
+  left: 7.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.diagnosisB1 {
+  top: 33px;
+  left: 104px;
+}
+.appointmentDiv,
+.bestMedicalEquipmentUsedTo1,
+.diagnosisB1 {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.bestMedicalEquipmentUsedTo1 {
+  top: 34.62%;
+  left: 10.61%;
+  color: var(--neutral-100);
+  text-align: center;
+}
+.appointmentDiv {
+  top: 15px;
+  left: 27px;
+  font-weight: 500;
+}
+.frameDiv16,
+.frameDiv17 {
+  position: absolute;
+  overflow: hidden;
+  display: none;
+}
+.frameDiv17 {
+  top: 175px;
+  left: 77px;
+  border-radius: var(--br-xs);
+  background-color: var(--neutral-100);
+  width: 156px;
+  height: 51px;
+  font-size: var(--font-size-base);
+  color: var(--color-turquoise-200);
+}
+.frameDiv16 {
+  top: 348px;
+  left: 400px;
+  border-radius: var(--br-md);
+  background-color: var(--color-turquoise-100);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  width: 311px;
+  height: 260px;
+}
+.rimedicineBottleFillIcon {
+  position: absolute;
+  top: 32px;
+  left: 119px;
+  width: 72px;
+  height: 72px;
+  overflow: hidden;
+}
+.medicineB,
+.sepcialistPharmasistSuggest {
+  position: absolute;
+  top: 125px;
+  left: 108px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.sepcialistPharmasistSuggest {
+  top: 65%;
+  left: 13.83%;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.frameDiv18 {
+  position: absolute;
+  top: 629px;
+  left: 400px;
+  border-radius: var(--br-md);
+  background-color: var(--neutral-100);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  width: 311px;
+  height: 260px;
+  overflow: hidden;
+}
+.fontistobloodDropIcon {
+  position: absolute;
+  top: 37px;
+  left: 132px;
+  width: 45px;
+  height: 72px;
+  overflow: hidden;
+}
+.highlySpecializedMDOrDOPh,
+.pathologyB {
+  position: absolute;
+  top: 125px;
+  left: 103px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.highlySpecializedMDOrDOPh {
+  top: 65%;
+  left: 12.9%;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.frameDiv19 {
+  position: absolute;
+  top: 348px;
+  left: 732px;
+  border-radius: var(--br-md);
+  background-color: var(--neutral-100);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  width: 310px;
+  height: 260px;
+  overflow: hidden;
+}
+.healthiconsneurology {
+  position: absolute;
+  top: 32px;
+  left: 120px;
+  width: 72px;
+  height: 72px;
+  overflow: hidden;
+}
+.neurologyB,
+.weHaveATeamOfExpertSpeci1 {
+  position: absolute;
+  top: 125px;
+  left: 102px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.weHaveATeamOfExpertSpeci1 {
+  top: 65%;
+  left: 9.03%;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.frameDiv20,
+.medicalIconiDental {
+  position: absolute;
+  overflow: hidden;
+}
+.frameDiv20 {
+  top: 629px;
+  left: 732px;
+  border-radius: var(--br-md);
+  background-color: var(--neutral-100);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  width: 310px;
+  height: 260px;
+}
+.medicalIconiDental {
+  top: 34px;
+  left: 120px;
+  width: 72px;
+  height: 72px;
+}
+.dentalCareB,
+.maintainTheOverallHealthOf {
+  position: absolute;
+  top: 125px;
+  left: 95px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.maintainTheOverallHealthOf {
+  top: 65%;
+  left: 15.48%;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.faambulanceIcon,
+.frameDiv21 {
+  position: absolute;
+  overflow: hidden;
+}
+.frameDiv21 {
+  top: 348px;
+  left: 1059px;
+  border-radius: var(--br-md);
+  background-color: var(--neutral-100);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  width: 310px;
+  height: 260px;
+}
+.faambulanceIcon {
+  top: 42px;
+  left: 124px;
+  width: 61px;
+  height: 50px;
+}
+.ambulance,
+.emergencyServiceJustCallUs {
+  position: absolute;
+  top: 125px;
+  left: 96px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.emergencyServiceJustCallUs {
+  top: 65%;
+  left: 11.29%;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.frameDiv12,
+.frameDiv22 {
+  position: absolute;
+  overflow: hidden;
+}
+.frameDiv22 {
+  top: 629px;
+  left: 1059px;
+  border-radius: var(--br-md);
+  background-color: var(--neutral-100);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  width: 310px;
+  height: 260px;
+}
+.frameDiv12 {
+  top: 1840px;
+  left: 0;
+  width: 1440px;
+  height: 959px;
+}
+.div,
+.dogtorIsAnOnlineHealthcare,
+.withATeamOfLicensedDoctor {
+  position: absolute;
+  left: 45.96%;
+  letter-spacing: 0.02em;
+  display: none;
+}
+.dogtorIsAnOnlineHealthcare {
+  top: 49.21%;
+  white-space: pre-wrap;
+}
+.div,
+.withATeamOfLicensedDoctor {
+  top: 63.13%;
+}
+.div {
+  top: 46.99%;
+  display: inline-block;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 51px;
+  left: 69px;
+  background-color: var(--color-turquoise-200);
+  width: 160px;
+  height: 160px;
+}
+.rectangleIcon2 {
+  position: absolute;
+  top: 75px;
+  left: 95px;
+  width: 525px;
+  height: 528px;
+  object-fit: cover;
+}
+.knowMoreB,
+.whoWeAre {
+  position: absolute;
+  top: 75px;
+  left: 660px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-tan);
+}
+.knowMoreB {
+  top: 566px;
+  font-size: var(--font-size-xl);
+  color: var(--color-turquoise-200);
+}
+.antDesignarrowRightOutlineIcon {
+  position: absolute;
+  top: 571px;
+  left: 827px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.shortStoryAboutDogtor {
+  position: absolute;
+  top: 119px;
+  left: 660px;
+  font-size: var(--title-02-bold-size);
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  color: var(--color-gray-300);
+  display: inline-block;
+}
+.biplayCircleIcon {
+  position: absolute;
+  top: 311px;
+  left: 329px;
+  width: 56px;
+  height: 56px;
+  overflow: hidden;
+}
+.frameDiv23,
+.frameIcon {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.frameDiv23 {
+  top: 1136px;
+  width: 1436px;
+  height: 632px;
+  color: var(--color-gray-200);
+}
+.frameIcon {
+  top: 2870px;
+  width: 1430px;
+  height: 783px;
+  object-fit: cover;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 18px;
+  left: 944px;
+  background-color: var(--color-gray-400);
+  width: 415px;
+  height: 264px;
+}
+.simpleLineIconscalender {
+  position: absolute;
+  top: 45px;
+  left: 1120px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.rectangleDiv4,
+.rectangleDiv5 {
+  position: absolute;
+  top: 18px;
+  left: 70px;
+  background-color: var(--color-gray-400);
+  width: 415px;
+  height: 264px;
+}
+.rectangleDiv5 {
+  left: 507px;
+}
+.healthiconsdoctorMaleOutlin,
+.heroiconsOutlineemojiHappy {
+  position: absolute;
+  top: 51px;
+  left: 674px;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+.heroiconsOutlineemojiHappy {
+  top: 59px;
+  left: 235px;
+  width: 72px;
+  height: 72px;
+}
+.happyPatientsDiv {
+  position: absolute;
+  top: 212px;
+  left: 196px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.experiencedDoctorsDiv {
+  position: absolute;
+  top: 212px;
+  left: 612px;
+}
+.b,
+.b1,
+.experiencedDoctorsDiv,
+.yearsOfExperience {
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.yearsOfExperience {
+  position: absolute;
+  top: 212px;
+  left: 1053px;
+}
+.b,
+.b1 {
+  font-size: var(--font-size-2xl);
+}
+.b {
+  position: absolute;
+  top: 147px;
+  left: 194px;
+}
+.b1 {
+  top: 143px;
+  left: 679px;
+}
+.b1,
+.b2,
+.frameDiv24 {
+  position: absolute;
+}
+.b2 {
+  top: 143px;
+  left: 1117px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.frameDiv24 {
+  top: 2871px;
+  left: 0;
+  background-color: rgba(32, 188, 126, 0.85);
+  width: 1430px;
+  height: 782px;
+  overflow: hidden;
+  color: var(--neutral-100);
+}
+.rectangleDiv6,
+.rectangleDiv7 {
+  position: absolute;
+  top: 3192px;
+  left: 175px;
+  border-radius: var(--br-md);
+  background-color: var(--neutral-100);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.16);
+  width: 1075px;
+  height: 754px;
+}
+.rectangleDiv7 {
+  top: 4057px;
+  width: 1079px;
+  height: 214px;
+}
+.rectangleDiv8,
+.rectangleIcon3 {
+  position: absolute;
+  top: 3192px;
+  left: 943px;
+  border-radius: 0 var(--br-md) var(--br-md) 0;
+  width: 311px;
+}
+.rectangleIcon3 {
+  height: 561px;
+  object-fit: cover;
+}
+.rectangleDiv8 {
+  background-color: var(--color-tan);
+  height: 755px;
+  opacity: 0.85;
+}
+.enterEmailHere {
+  top: 4169px;
+  left: 823px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-gray-100);
+  width: 141px;
+}
+.enterEmailHere,
+.getAllTheLatestOffersAnd,
+.getNotificationsDiv {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.getAllTheLatestOffersAnd {
+  top: 4193px;
+  left: 211px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.getNotificationsDiv {
+  top: 4109px;
+  left: 207px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.logoDiv1 {
+  position: absolute;
+  top: 3447px;
+  left: 1058px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  font-size: var(--font-size-xl);
+  color: var(--neutral-100);
+}
+.bxsuserIcon,
+.carbonphoneVoiceFilledDiv {
+  position: absolute;
+  top: 4150px;
+  left: 734px;
+  width: 66px;
+  height: 60px;
+  overflow: hidden;
+}
+.carbonphoneVoiceFilledDiv {
+  height: 90%;
+  width: 90%;
+  top: 10%;
+  right: 5%;
+  bottom: 0;
+  left: 5%;
+}
+.bxsuserDiv {
+  position: absolute;
+  top: 3502px;
+  left: 552px;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+.needConsultationB {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-tan);
+}
+.span {
+  color: #fd0000;
+}
+.nameB {
+  position: absolute;
+  top: 155px;
+  left: 93px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.span1 {
+  color: var(--color-red-100);
+}
+.emailB,
+.enterNameHere,
+.phoneB {
+  position: absolute;
+  top: 155px;
+  left: 450px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.enterNameHere,
+.phoneB {
+  top: 265px;
+  left: 93px;
+}
+.enterNameHere {
+  top: 190px;
+}
+.enterEmailHere1,
+.enterNameHere,
+.enterPhoneNoHere {
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.enterEmailHere1 {
+  position: absolute;
+  top: 190px;
+  left: 450px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.enterPhoneNoHere {
+  top: 300px;
+  left: 93px;
+}
+.bookAnAppointment,
+.enterPhoneNoHere,
+.selectServiceDiv {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.selectServiceDiv {
+  top: 300px;
+  left: 446px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.bookAnAppointment {
+  top: 50px;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.bxsuserIcon1,
+.bxsuserIcon2 {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+.bxsuserIcon2 {
+  top: 262px;
+}
+.lineDiv1,
+.lineDiv2,
+.lineDiv3,
+.lineDiv4 {
+  position: absolute;
+  top: 221.5px;
+  left: 87.5px;
+  border-top: 1px solid var(--color-turquoise-100);
+  box-sizing: border-box;
+  width: 221px;
+  height: 1px;
+}
+.lineDiv2,
+.lineDiv3,
+.lineDiv4 {
+  left: 444.5px;
+}
+.lineDiv3,
+.lineDiv4 {
+  top: 331.5px;
+  left: 87.5px;
+}
+.lineDiv4 {
+  left: 440.5px;
+}
+.fa6SolidangleDownIcon,
+.faSolidclinicMedicalIcon {
+  position: absolute;
+  top: 288px;
+  left: 630px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.faSolidclinicMedicalIcon {
+  top: 264px;
+  left: 357px;
+  width: 63px;
+  height: 56px;
+}
+.submitDiv {
+  position: absolute;
+  top: 23px;
+  left: 94px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.makeAppointment1 {
+  position: absolute;
+  top: calc(50% + 265px);
+  left: calc(50% - 134.5px);
+  border-radius: var(--br-sm);
+  background-color: var(--color-turquoise-200);
+  box-shadow: 0 2px 10px rgba(65, 211, 153, 0.7);
+  width: 262px;
+  height: 74px;
+  color: var(--neutral-100);
+}
+.serviceB {
+  position: absolute;
+  top: 265px;
+  left: 446px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.bxsuserIcon3 {
+  position: absolute;
+  top: 152px;
+  left: 353px;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+.eventNoteIcon,
+.groupDiv4 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  width: 80px;
+  height: 80px;
+}
+.groupDiv4 {
+  top: 3240px;
+  left: 227px;
+  width: 665px;
+  height: 678px;
+}
+.rectangleDiv11,
+.rectangleDiv12 {
+  position: absolute;
+  top: 4143px;
+  left: 728px;
+  border-radius: var(--br-sm);
+  border: 1px solid var(--color-turquoise-200);
+  box-sizing: border-box;
+  width: 454px;
+  height: 73px;
+}
+.rectangleDiv12 {
+  left: 1057px;
+  background-color: var(--color-turquoise-200);
+  width: 125px;
+}
+.subscribeDiv {
+  position: absolute;
+  top: 4169px;
+  left: 1079px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  color: var(--neutral-100);
+  display: inline-block;
+  width: 81px;
+}
+.carbonlocationFilledIcon {
+  position: absolute;
+  top: 156px;
+  left: 616px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.logoDiv2 {
+  position: absolute;
+  top: 63px;
+  left: 183px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+}
+.aboutUsDiv1,
+.diagnosisDiv,
+.nguyenHuuThoTanHungWard,
+.theresNothingInThisStory {
+  position: absolute;
+  top: 161px;
+  left: 183px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.aboutUsDiv1,
+.diagnosisDiv,
+.nguyenHuuThoTanHungWard {
+  top: 148px;
+  left: 666px;
+}
+.aboutUsDiv1,
+.diagnosisDiv {
+  top: 137px;
+  left: 942px;
+}
+.diagnosisDiv {
+  left: 1161px;
+}
+.appointmentDiv1,
+.dentalDiv,
+.doctorsDiv,
+.pathologyDiv,
+.servicesDiv,
+.termsAndConditionsPrivacy {
+  position: absolute;
+  top: 178px;
+  left: 942px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.appointmentDiv1,
+.dentalDiv,
+.doctorsDiv,
+.pathologyDiv,
+.termsAndConditionsPrivacy {
+  left: 1161px;
+}
+.appointmentDiv1,
+.dentalDiv,
+.doctorsDiv,
+.termsAndConditionsPrivacy {
+  top: 220px;
+  left: 942px;
+}
+.dentalDiv,
+.doctorsDiv,
+.termsAndConditionsPrivacy {
+  left: 1161px;
+}
+.doctorsDiv,
+.termsAndConditionsPrivacy {
+  top: 261px;
+  left: 942px;
+}
+.termsAndConditionsPrivacy {
+  top: 401px;
+  left: 568px;
+  width: 293px;
+}
+.allRightsReservedToDogtor,
+.cardiologyDiv,
+.medicineDiv,
+.neurologyDiv {
+  position: absolute;
+  top: 261px;
+  left: 1161px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.allRightsReservedToDogtor,
+.cardiologyDiv,
+.neurologyDiv {
+  top: 302px;
+}
+.allRightsReservedToDogtor,
+.neurologyDiv {
+  top: 343px;
+}
+.allRightsReservedToDogtor {
+  top: 385px;
+  left: 611px;
+  font-size: 12px;
+}
+.div1 {
+  top: 228px;
+  left: 665px;
+  font-weight: 500;
+}
+.contactUsB,
+.div1,
+.div2,
+.ourServicesB1,
+.usefulLinksB {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.div2 {
+  top: 257px;
+  left: 666px;
+  font-weight: 500;
+}
+.contactUsB,
+.ourServicesB1,
+.usefulLinksB {
+  top: 89px;
+  left: 621px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+}
+.ourServicesB1,
+.usefulLinksB {
+  left: 942px;
+}
+.ourServicesB1 {
+  left: 1161px;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 7.32%;
+  width: 2.28%;
+  top: 54.23%;
+  right: 54.64%;
+  bottom: 38.44%;
+  left: 43.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebookIcon,
+.frameDiv25,
+.instagramIcon,
+.youtubeIcon {
+  position: absolute;
+  top: 228px;
+  left: 311px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.facebookIcon,
+.frameDiv25,
+.youtubeIcon {
+  left: 243px;
+}
+.facebookIcon,
+.frameDiv25 {
+  left: 175px;
+}
+.frameDiv25 {
+  top: 4381px;
+  left: 0;
+  background-color: var(--neutral-100);
+  width: 1430px;
+  height: 437px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+}
+.brieflyDescribeYourSymptoms {
+  position: absolute;
+  width: calc(100% - 32px);
+  top: 0;
+  left: 16px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.fieldDiv {
+  position: absolute;
+  top: calc(50% + 1207px);
+  left: calc(50% - 395px);
+  border-radius: var(--br-xs);
+  background-color: var(--neutral-100);
+  border: 1px solid var(--color-turquoise-100);
+  box-sizing: border-box;
+  width: 572px;
+  height: 192px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+}
+.dogtorIcon {
+  position: absolute;
+  top: 269px;
+  left: 921px;
+  width: 467px;
+  height: 658px;
+  object-fit: cover;
+}
+.evaphoneCallFillIcon {
+  position: absolute;
+  top: 1169px;
+  left: 1430px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.fontistobloodDropIcon1,
+.heroiconsOutlineemojiHappy1 {
+  position: absolute;
+  top: 2907px;
+  left: 1430px;
+  width: 72px;
+  height: 72px;
+  overflow: hidden;
+}
+.fontistobloodDropIcon1 {
+  top: 2270px;
+  width: 15px;
+  height: 24px;
+}
+.homepageDiv {
+  position: relative;
+  background-color: #f0f4f5;
+  width: 100%;
+  height: 4818px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+  font-family: var(--title-02-bold);
+}
